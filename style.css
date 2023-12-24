@@ -1,0 +1,35 @@
+
+  /* Style for the button */
+  #find-me {
+    background-color: rgb(77, 140, 207); /* Background color */
+    color: rgb(251, 241, 241); /* Text color */
+    padding:20 px 20px; /* Padding */
+    border: none; /* Remove border */
+    border-radius: 50px; /* Rounded corners */
+    cursor: pointer; /* Cursor style */
+    font-size: 30px;
+
+        margin: 0 auto; /* This centers the button horizontally */
+        display: block; /* Ensure it behaves as a block element for margin auto to work */
+      
+    
+    /* Text size */
+  }
+  
+  /* Style for the status paragraph */
+  #status {
+    margin-top: 10px; /* Add some space */
+    font-style: italic; /* Italics */
+           text-align: center; /* Center-align text within the #status paragraph */
+           font-size: 30px;
+
+  }
+  
+  /* Style for the map link */
+  #map-link {
+    display: block; /* Display as block element */
+    margin-top: 50px; /* Add some space */
+    color: #100f0f; /* Link color */
+    text-decoration: none; /* Remove underline */
+    text-align: center;
+  }
